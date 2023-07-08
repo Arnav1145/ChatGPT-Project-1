@@ -1,1 +1,1 @@
-# ChatGPT-Project-1
+# Sonar vs Mine Prediction
